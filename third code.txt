@@ -1,0 +1,8 @@
+program LoopForeverTest2
+while true
+n = 1
+i = n + 3
+p = n + i + 5
+q = p – i * 2
+wend
+end
